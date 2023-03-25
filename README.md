@@ -1,4 +1,4 @@
 # FakeAV-TIMIT
-a new audio-visual deepfake database
+A new audio-visual deepfake database
 
 Coming soon
